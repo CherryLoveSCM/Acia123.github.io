@@ -10,7 +10,8 @@ header {
     width: 100%;
     
 }
-h1 .text {
+
+.text {
   display: flex;
   text-align: center;
   padding: 0px 0px 0px 80px;
