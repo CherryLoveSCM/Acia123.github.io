@@ -13,4 +13,5 @@ header {
 h1 .text {
   display: flex;
   text-align: center;
+  padding-left: 65px;
 }
