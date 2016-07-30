@@ -4,11 +4,11 @@ header {
   height: 84px;
   border-bottom: 4px solid #1676b2;
 }
-header .row {
+div .row {
   width: 100%;
   align-items: center;
 }
-.text {
+h1 .text {
   display: flex;
   text-align: center;
 }
