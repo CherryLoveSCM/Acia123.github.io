@@ -6,8 +6,9 @@ header {
 }
 header .row {
   width: 100%;
+  align-items: center;
 }
 .text {
   display: flex;
-  
+  align-items: center;
 }
