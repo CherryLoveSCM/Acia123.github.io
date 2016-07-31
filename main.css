@@ -23,9 +23,13 @@ header {
   color: white;
   font-family: Arial;
 }
+.main {
+  align-items: center;
+}
+
 .sida {
   width: 650px;
   height: 865px;
-  align-items: center;
+  
 }
 
