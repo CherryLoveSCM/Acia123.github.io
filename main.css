@@ -44,6 +44,7 @@ header {
  width: 270px; 
  height: 275px;
   margin:0 auto;
+  box-shadow: 4px 4px 0px #d6dce0;
 }
 
 .bild {
