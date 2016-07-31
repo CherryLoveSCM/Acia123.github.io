@@ -54,8 +54,11 @@ header {
   height: 190px;
 }
 .span {
- margin-top: -20px;
+ margin-top: -28px;
  position: absolute;
+ background-color: #3399ff ;
+ color: white;
+ 
 }
 
 
