@@ -4,10 +4,10 @@ body {
 }
 
 header {
-  background-color: #e60000;
+  background-color: #669900;
   width: 100%;
   height: 84px;
-  border-bottom: 4px solid #4d0000;
+  border-bottom: 4px solid #558000;
 }
 .row {
     display: flex;
