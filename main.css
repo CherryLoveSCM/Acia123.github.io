@@ -30,7 +30,7 @@ header {
 .sida {
   width: 650px;
   height: 865px;
-  position: absolute;
-  
+ right: 50%;
+ left: 50%;
 }
 
