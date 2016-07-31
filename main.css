@@ -34,14 +34,14 @@ header {
 }
 
 .nyhet {
-  width: 300px;
+  width: 383px;
   height: 305px;
   display: inline-block;
   
 }
 
 .nyheten {
- width: 270px; 
+ width: 353px; 
  height: 275px;
   margin:0 auto;
   box-shadow: 4px 4px 0px #d6dce0;
@@ -49,5 +49,5 @@ header {
 
 .bild {
   width: 100%;
-  height: 200px;
+  height: 190px;
 }
