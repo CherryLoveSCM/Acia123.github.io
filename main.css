@@ -61,5 +61,11 @@ header {
  padding: 4px 8px;
  
 }
+.meny {
+  height: 768px;
+  width: 300px;
+  background-color: #3366ff;
+  position: fixed;
+}
 
 
