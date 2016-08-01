@@ -67,5 +67,9 @@ header {
   background-color: #4d4d4d;
   position: fixed;
 }
-
+.closer {
+  width: 300px;
+  height: 106px;
+  outline-color: #8c8c8c; 
+}
 
