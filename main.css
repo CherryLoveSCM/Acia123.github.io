@@ -92,6 +92,6 @@ header {
   text-transform: uppercase;
 }
 .p {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
