@@ -85,4 +85,8 @@ header {
   padding-left: 20px;
    padding-top: 3px;
 }
+.meny a {
+  color: #fff;
+  text-decoration: none;
+}
 
