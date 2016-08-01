@@ -89,5 +89,6 @@ header {
 .meny a {
   color: #fff;
   text-decoration: none;
+  text-transform: uppercase;
 }
 
