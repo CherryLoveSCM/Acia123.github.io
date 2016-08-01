@@ -62,9 +62,9 @@ header {
  
 }
 .meny {
-  height: 860px;
+  height: 900px;
   width: 300px;
-  background-color: blue;
+  background-color: #4d4d4d;
   position: fixed;
 }
 
