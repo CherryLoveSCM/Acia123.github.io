@@ -1,4 +1,4 @@
-ar main = function() {
+var main = function() {
   /* Push the body and the nav over by 285px over */
   $('.bild2').click(function() {
     $('.meny').animate({
