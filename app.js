@@ -7,7 +7,7 @@ var main =  function() {
     left: "285px"
   }, 200);
   });
-  $(".bild").click(function(){
+  $(".bild3").click(function(){
     $(".meny").animate({
   left: "-285px"
     }, 200);
