@@ -95,4 +95,9 @@ header {
   text-decoration: none;
   color: black;
 }
+.bild2{
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
 
