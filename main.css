@@ -63,7 +63,7 @@ header {
 }
 .meny {
   height: 700px;
-  width: 100%;
+  width: 300px;
   background: #202024 url('https://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
   position: fixed;
 }
