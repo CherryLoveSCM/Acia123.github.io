@@ -66,7 +66,7 @@ header {
   width: 300px;
   background: #202024 url('https://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
   position: fixed;
-  left: 300px;
+  left: -300px;
 }
 .closer {
   width: 300px;
